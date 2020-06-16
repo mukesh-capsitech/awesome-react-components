@@ -26,6 +26,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [ag-grid](https://github.com/ceolter/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
 - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+- [jqwidgets-react-grid](https://www.jqwidgets.com/react/react-grid/) - Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.
 
 ### Table
 
@@ -40,7 +41,8 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [rsuite-table](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
 - [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
-- [Smart React Grid](https://htmlelements.com/docs/react/) - Fast and feature-complete data grid with Material Design.
+- [Smart React Grid](https://htmlelements.com/react/demos/grid/overview/) - Fast and feature-complete data grid with Material Design.
+- [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
 ### Infinite Scroll
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid)  - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
@@ -59,7 +61,8 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 - [react-dock](https://github.com/alexkuz/react-dock) - Resizable dockable react component.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
-
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
 ### Notification
 
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
@@ -70,7 +73,6 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 - [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - [demo](https://jossmac.github.io/react-toast-notifications/) - pleasing toast system.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
-- [react-snackbar-alert](https://github.com/joeattardi/react-snackbar-alert) - [demo](https://joeattardi.github.io/react-snackbar-alert/) - Simple snackbar notifications. Uses Context API.
 - [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 
 ### Tooltip
@@ -82,10 +84,11 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 _Menus / sidebars_
 
+- [hamburger-react](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 - [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Context Menu implemented in React.
 - [react-offcanvas](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
-- [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
+- [react-planet](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
 
 ### Sticky
 
@@ -149,7 +152,6 @@ _Display data in charts / graphs / diagrams_
 - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
 - [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts.
 - [react-sigmajs](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS.
-- [react-sparkline](https://github.com/KyleAMathews/react-sparkline) - React component for rendering simple sparklines.
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 - [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines.
@@ -160,6 +162,8 @@ _Display data in charts / graphs / diagrams_
 - [reaviz](https://github.com/jask-oss/reaviz) - ReactJS Data Visualization Library based on D3.js.
 - [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
+- [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
+
 
 ### Tree
 
@@ -198,6 +202,7 @@ _Ways to navigate views_
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js.
+- [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
 
 ### Time / Date / Age
 
@@ -244,7 +249,6 @@ _Display parsed markdow source_
 
 ### Miscellaneous
 
-- [react-avatar](https://github.com/Sitebase/react-avatar) - Universal React avatar component makes it possible to generate avatars based on user information.
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
 - [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
@@ -258,6 +262,7 @@ _Display parsed markdow source_
 - [react-json-tree](https://github.com/alexkuz/react-json-tree) - React JSON Viewer Component, Extracted from redux-devtools.
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - Resizable and movable component for React.
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - Resizable component for React. #reactjs.
+- [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-swipe-to-delete-ios](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
@@ -285,6 +290,7 @@ _Date picker / time picker / datetime picker / date range picker_
 - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 - [r-date-picker](https://github.com/KELEN/r-date-picker) - React.js high customize date picker component, easy style it.
 - [DevExtreme React Scheduler](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - High-performance plugin-based scheduler/calendar for Material Design.
+- [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
 
 #### Emoji picker
 
@@ -492,10 +498,10 @@ _Set of components + responsive layout system_
 - [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
 - [insites-ui](https://github.com/insites-co/insites-ui) - Modern, opinionated, minimal, yet powerful React components library, powered by Styled Components.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
+- [orbit-components](https://github.com/kiwicom/orbit-components/) - Components for building travel oriented projects.
 - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
-- [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
 - [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components.
 - [reakit](https://github.com/reakit/reakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
 - [rebass](https://github.com/jxnblk/rebass) - Configurable React Stateless Functional UI Components.
@@ -515,6 +521,7 @@ _Set of components + responsive layout system_
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design.
+- [mdbootstrap](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - React Bootstrap with Material Design
 
 ### Mobile
 
@@ -530,7 +537,7 @@ _Set of components + responsive layout system_
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10.
-- [react-stack-cards](https://github.com/yoloten/react-stack-cards) - Collection of stack card effects for galleries and preview grids.
+- [matrix-card](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
 
 
